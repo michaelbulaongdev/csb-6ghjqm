@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://michaelbulaongdev.github.io/csb-6ghjqm/static/css/main.5907f245.chunk.css",
-    "main.js": "https://michaelbulaongdev.github.io/csb-6ghjqm/static/js/main.5211ef9d.chunk.js",
-    "main.js.map": "https://michaelbulaongdev.github.io/csb-6ghjqm/static/js/main.5211ef9d.chunk.js.map",
+    "main.css": "https://michaelbulaongdev.github.io/csb-6ghjqm/static/css/main.d40e9c55.chunk.css",
+    "main.js": "https://michaelbulaongdev.github.io/csb-6ghjqm/static/js/main.9f0ce145.chunk.js",
+    "main.js.map": "https://michaelbulaongdev.github.io/csb-6ghjqm/static/js/main.9f0ce145.chunk.js.map",
     "runtime-main.js": "https://michaelbulaongdev.github.io/csb-6ghjqm/static/js/runtime-main.c4255264.js",
     "runtime-main.js.map": "https://michaelbulaongdev.github.io/csb-6ghjqm/static/js/runtime-main.c4255264.js.map",
     "static/js/2.fa38e04c.chunk.js": "https://michaelbulaongdev.github.io/csb-6ghjqm/static/js/2.fa38e04c.chunk.js",
     "static/js/2.fa38e04c.chunk.js.map": "https://michaelbulaongdev.github.io/csb-6ghjqm/static/js/2.fa38e04c.chunk.js.map",
     "index.html": "https://michaelbulaongdev.github.io/csb-6ghjqm/index.html",
-    "static/css/main.5907f245.chunk.css.map": "https://michaelbulaongdev.github.io/csb-6ghjqm/static/css/main.5907f245.chunk.css.map",
+    "static/css/main.d40e9c55.chunk.css.map": "https://michaelbulaongdev.github.io/csb-6ghjqm/static/css/main.d40e9c55.chunk.css.map",
     "static/js/2.fa38e04c.chunk.js.LICENSE.txt": "https://michaelbulaongdev.github.io/csb-6ghjqm/static/js/2.fa38e04c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c4255264.js",
     "static/js/2.fa38e04c.chunk.js",
-    "static/css/main.5907f245.chunk.css",
-    "static/js/main.5211ef9d.chunk.js"
+    "static/css/main.d40e9c55.chunk.css",
+    "static/js/main.9f0ce145.chunk.js"
   ]
 }
