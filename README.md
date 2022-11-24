@@ -1,2 +1,2 @@
-# the pokedex project:
+# the pokedex project
 a study on react.js
