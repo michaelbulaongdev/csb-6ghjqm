@@ -1,3 +1,0 @@
-# csb-6ghjqm
-
-POKEDEX PROJECT GITHUB DEPLOY
